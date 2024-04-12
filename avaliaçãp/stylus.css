@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    background-color: gray;
+    font-size: large;
+}
+
+.aimg{
+    width: 30vw;
+    height: 50vh;
+    object-fit: cover;
+    align-items: left;
+    display: flex;
+    border-radius: 40px;
+    float:left
+}
+
+section{
+    display: flex;
+    align-items: center;
+}
